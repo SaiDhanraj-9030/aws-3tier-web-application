@@ -1,6 +1,6 @@
-# aws-3tier-web-application
-AWS 3-Tier Web Application Architecture using EC2, VPC, ALB, Auto Scaling, RDS, CloudWatch and SNS.
 # AWS 3-Tier Web Application Architecture
+
+AWS 3-Tier Web Application Architecture using EC2, VPC, ALB, Auto Scaling, RDS, CloudWatch and SNS.
 
 ## Overview
 
@@ -31,22 +31,21 @@ Designed and deployed a highly available 3-Tier Web Application Architecture on 
 * Performed MySQL database operations.
 * Implemented high availability and scalability.
 
-## Skills
 
 ## Skills
 
-AWS
-Linux
-Amazon EC2
-Amazon VPC
-Amazon RDS
-Amazon Aurora
-Application Load Balancer (ALB)
-Auto Scaling
-CloudWatch
-SNS
-MySQL
-Networking
-System Monitoring
-Cloud Infrastructure
-DevOps
+- AWS
+- Linux
+- Amazon EC2
+- Amazon VPC
+- Amazon RDS
+- Amazon Aurora
+- Application Load Balancer (ALB)
+- Auto Scaling
+- CloudWatch
+- SNS
+- MySQL
+- Networking
+- System Monitoring
+- Cloud Infrastructure
+- DevOps
