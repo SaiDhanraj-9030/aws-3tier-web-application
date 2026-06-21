@@ -33,4 +33,20 @@ Designed and deployed a highly available 3-Tier Web Application Architecture on 
 
 ## Skills
 
-AWS, Linux, Networking, EC2, VPC, RDS, Aurora, Load Balancer, Auto Scaling, MySQL, Cloud Infrastructure
+## Skills
+
+AWS
+Linux
+Amazon EC2
+Amazon VPC
+Amazon RDS
+Amazon Aurora
+Application Load Balancer (ALB)
+Auto Scaling
+CloudWatch
+SNS
+MySQL
+Networking
+System Monitoring
+Cloud Infrastructure
+DevOps
