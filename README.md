@@ -31,21 +31,20 @@ Designed and deployed a highly available 3-Tier Web Application Architecture on 
 * Performed MySQL database operations.
 * Implemented high availability and scalability.
 
-
 ## Skills
 
-- AWS
-- Linux
-- Amazon EC2
-- Amazon VPC
-- Amazon RDS
-- Amazon Aurora
-- Application Load Balancer (ALB)
-- Auto Scaling
-- CloudWatch
-- SNS
-- MySQL
-- Networking
-- System Monitoring
-- Cloud Infrastructure
-- DevOps
+* AWS
+* Linux
+* Amazon EC2
+* Amazon VPC
+* Amazon RDS
+* Amazon Aurora
+* Application Load Balancer (ALB)
+* Auto Scaling
+* CloudWatch
+* SNS
+* MySQL
+* Networking
+* System Monitoring
+* Cloud Infrastructure
+* DevOps
